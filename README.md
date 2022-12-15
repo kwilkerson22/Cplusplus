@@ -16,8 +16,7 @@ I could incorporate vectors and pointers in an expanded version of this program.
 objects in one place where they could be called on later. Using pointers would reduce the overall memory demand
 of the program.
 
-# Which pieces of the code did you find most challenging to write, and how did you overcome this? 
-# What tools or resources are you adding to your support network?
+# Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
 The most challenging pieces of code were the functions that calculated balances and interest with and without monthly 
 deposits. My yearly balances were printing out correctly however my year end interest was not. In my testing of the 
 program, I learned that I needed to make a seperate variable to track the amount of interest earned until a full year
