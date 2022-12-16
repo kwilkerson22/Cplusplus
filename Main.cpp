@@ -48,8 +48,6 @@ int main() {
 	cin >> numYears;
 	cout << endl;
 
-	cout << "Press any key to continue..." << endl;
-
 	system("pause");
 
 	// print table of yearly outcome of balance and interest without monthly deposit
